@@ -1,2 +1,2 @@
-Hello_Git
+#Hello_Git
 ## git 사용법
